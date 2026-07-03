@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Arihant Jain 👋</h1>
-<h3 align="center">Software Engineer @ Pronto Networks | React • Node.js • Full Stack Web</h3>
+<h3 align="center">Software Engineer @ Zener Maritime Solutions | React • TypeScript • Node.js • MERN</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arihantj13&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -12,11 +12,13 @@
 
 ### 🚀 About Me
 
-- 💼 Software Engineer at **Pronto Networks**, building enterprise analytics platforms and modernizing legacy jQuery apps to **ReactJS**
+- 💼 Software Engineer at **Zener Maritime Solutions** (Jan 2026 – Present), Mumbai
+- 🏢 Previously Software Engineer at **Pronto Networks** (May 2024 – Dec 2025), where I led jQuery → ReactJS migrations, boosting user engagement by 30%+ through interactive dashboards (Google Maps API, DataTables)
+- 🌱 Before that, Full Stack Developer at **Blue Data Consulting**, building MERN-stack applications
 - 🎓 B.Tech in Computer Science from **IIIT Sri City** (2019–2023)
-- 🌱 Previously worked as a **Full Stack Engineer** at Blue Data Consulting, building MERN-stack applications
-- 📚 Also mentored 50+ learners in SQL & Python as a Technical Intern at **Newton School**
-- 💬 Ask me about **React, Redux, Node.js, REST APIs, MongoDB, MySQL**
+- 📚 Also mentored 50+ learners in SQL & Python as a Development Intern at **Newton School**, improving student scores by 25%
+- 💬 Ask me about **React.js, TypeScript, Node.js, Redux, REST APIs, MongoDB, MySQL, AI integrations**
+- 🚀 Open to chats on full-stack dev, AI integrations, or collaborative projects
 - 📫 Reach me at **jainarihant281@gmail.com**
 - 🌐 Check out my [Portfolio Website](https://arihantj13.github.io/myPortfolioWebsite/)
 
@@ -27,6 +29,7 @@
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/-JavaScript%20(ES6+)-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
